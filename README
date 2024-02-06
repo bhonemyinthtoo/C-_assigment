@@ -1,0 +1,20 @@
+This is my assigment for c++ test from ROM Robotics.
+
+These are questions.
+
+1. Write a simple floyd's triangle pattern.
+
+     example
+	1
+	2 3
+	4 5 6
+	7 8 9 10
+
+
+2. {4,6,39,73, 2,5 ,7} find min and max value of that array?
+
+3. Create enum for seasons of myanmar? Ask user to choose a seasons and make output of the months of season.
+
+4. Create Student class called that has private member variables for name, class, roll number, and marks. Include member functions to calculate the grade based on the marks and display the student's information. 
+
+5. Function overloading use call by value and call by reference for the area calculation of triangle. 
